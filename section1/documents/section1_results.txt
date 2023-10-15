@@ -1,0 +1,2 @@
+SSL certificate for www.example.com expires on: 2024-02-14 01:59:59
+SSL certificate for www.ultimateqa.com expires on: 2024-04-11 01:59:59
