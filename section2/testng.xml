@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite">
+    <test name="Test">
+        <parameter name="browser" value="chrome" />
+        <classes>
+            <class name="com.voss.section2.tests.WebAutomationTest" />
+        </classes>
+    </test>
+</suite>
+
+<!-- Functionality Partially Implemented: Some features may not work as intended.
+ It is advisable to utilize your integrated development environment (IDE) and right-click
+ on the `WebAutomationTest` class. -->

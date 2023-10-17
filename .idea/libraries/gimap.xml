@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gimap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/section2/libs/gimap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
